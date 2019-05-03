@@ -10,9 +10,9 @@ content = "Tea services that pair the perfect herbal blends and teas to your men
 headline = "Curated Experiences"
 image = "/images/herbal-blends.jpg"
 [[blocks.sections]]
-content = "Ok sparky it works"
-headline = "Can it be true!?"
-image = "/images/analize.png"
+content = "Brew is a family business grown out of love. Each bag hand measured and stamped. "
+headline = "Made with Love"
+image = "/images/TEA-BAGS.jpg"
 [[blocks]]
 button_text = "Learn More"
 button_url = "/events"
