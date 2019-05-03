@@ -12,17 +12,6 @@ image = "/images/herbal-blends.jpg"
 [[blocks.sections]]
 content = "Brew is a family business grown out of love. Each bag hand measured and stamped. "
 headline = "Made with Love"
-image = "/images/TEA-BAGS.jpg"
-[[blocks]]
-button_text = "Learn More"
-button_url = "/events"
-content = "Build Platforms for Your Community\n\nWork your developer magic and build and extend tools to address always-evolving needs of data science."
-heading = "Extend CyVerse"
-image = "/images/extend-cyverse.png"
-subtitle = ""
-template = "media-feature"
-[[blocks]]
-content = "How about now?"
-template = "body-copy"
+image = "/images/analize.png"
 
 +++
