@@ -6,9 +6,9 @@ content = "Tea should make you feel good physically and spiritually. Knowing tha
 headline = "Organic Fair Trade"
 image = "/images/organic.jpg"
 [[blocks.sections]]
-content = "All is beautiful in the world of flowers"
-headline = "At least I believe"
-image = "/images/connect.png"
+content = "Tea services that pair the perfect herbal blends and teas to your menu. Each dish is thoughtfully considered by contrasting or reinforcing its unique qualities. "
+headline = "Curated Experiences"
+image = "/images/herbal-blends.jpg"
 [[blocks.sections]]
 content = "Ok sparky it works"
 headline = "Can it be true!?"
