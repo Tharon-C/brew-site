@@ -1,0 +1,11 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: This the title displayed
+  config:
+    required: true

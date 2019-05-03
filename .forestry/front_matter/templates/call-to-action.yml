@@ -1,0 +1,20 @@
+---
+label: Call To Action
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: heading
+  label: Heading
+- type: text
+  name: subheading
+  label: Subheading
+- type: textarea
+  name: content
+  label: Content
+- type: text
+  name: button_text
+  label: Button Label
+- type: text
+  name: button_url
+  label: Button URL

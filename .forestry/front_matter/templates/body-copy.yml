@@ -1,0 +1,13 @@
+---
+label: Body Copy
+hide_body: false
+is_partial: true
+fields:
+- type: textarea
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Content
+  name: content
+  description: Enter your copy here

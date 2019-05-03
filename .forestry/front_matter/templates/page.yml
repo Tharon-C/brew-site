@@ -1,0 +1,16 @@
+---
+label: Page
+hide_body: false
+is_partial: false
+fields:
+- type: blocks
+  name: blocks
+  label: Page Template Blocks
+  template_types:
+  - section-summaries
+  - body-copy
+  - media-feature
+  - hero
+pages:
+- content/TestPage.md
+- content/_index.md

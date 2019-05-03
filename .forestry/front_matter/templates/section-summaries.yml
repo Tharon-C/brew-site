@@ -1,0 +1,22 @@
+---
+label: Section Summaries
+hide_body: false
+is_partial: true
+fields:
+- type: field_group_list
+  name: sections
+  label: Sections
+  fields:
+  - type: file
+    label: Image
+    name: image
+  - type: text
+    name: headline
+    label: Headline
+  - type: textarea
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Content
+    name: content

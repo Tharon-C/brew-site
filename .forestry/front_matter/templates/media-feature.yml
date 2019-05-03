@@ -1,0 +1,29 @@
+---
+label: Media Feature
+hide_body: false
+is_partial: true
+fields:
+- type: file
+  name: image
+  label: Image
+  description: The image featured next to the text
+- type: text
+  name: heading
+  label: Heading
+  description: The heading or title next to the image
+- type: text
+  name: subtitle
+  label: Subtitle
+  description: The subtitle next to the text
+- type: textarea
+  name: content
+  label: Content
+  description: The copy below the heading and subtitle (supports markdown)
+- type: text
+  name: button_text
+  label: ButtonLabel
+  description: If present a button will appear below the content with this label
+- type: text
+  name: button_url
+  label: Button URL
+  description: The URL the user will be sent to when the button is clicked

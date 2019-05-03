@@ -1,0 +1,28 @@
+---
+label: Hero
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: heading
+  label: Heading
+- type: text
+  label: Subheading
+  name: subheading
+  description: The secondary text under the headline
+- type: text
+  name: copy
+  label: Copy
+- type: file
+  name: background_image
+  label: Background Image
+  description: The background image that covers the hero section
+- type: text
+  name: button_text
+  label: Button Label
+  description: If defined a call to action button will be present
+- type: text
+  name: button_url
+  label: Button URL
+  description: The URL on the button that the user is to be taken to when clicking
+    the button
