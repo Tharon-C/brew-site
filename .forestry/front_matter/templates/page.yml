@@ -1,7 +1,6 @@
 ---
 label: Page
 hide_body: false
-is_partial: false
 fields:
 - type: blocks
   name: blocks
@@ -12,5 +11,4 @@ fields:
   - media-feature
   - hero
 pages:
-- content/TestPage.md
 - content/_index.md
