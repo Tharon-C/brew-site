@@ -12,6 +12,6 @@ image = "/images/herbal-blends.jpg"
 [[blocks.sections]]
 content = "Brew is a family business grown out of love. Each bag hand measured and stamped. "
 headline = "Made with Love"
-image = "/images/analize.png"
+image = "/images/TEA-BAGS.jpg"
 
 +++
