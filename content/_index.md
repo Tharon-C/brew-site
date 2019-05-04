@@ -1,6 +1,6 @@
 +++
 [[blocks]]
-content = "Brew. tea is a Tucson-based family run business grown out of love and respect for floriculture, rain harvesting, and mingling flavors to create a nourishing, sensory experience."
+content = "\n**Brew. tea is a Tucson-based family run business grown out of love and respect for floriculture, rain harvesting, and mingling flavors to create a nourishing, sensory experience.**"
 template = "body-copy"
 [[blocks]]
 template = "section-summaries"
