@@ -1,12 +1,7 @@
 +++
 [[blocks]]
-background_image = ""
-button_text = ""
-button_url = ""
-copy = "Brew. tea is a Tucson-based family run business grown out of love and respect for floriculture, rain harvesting, and mingling flavors to create a nourishing, sensory experience"
-heading = ""
-subheading = ""
-template = "hero"
+content = "Brew. tea is a Tucson-based family run business grown out of love and respect for floriculture, rain harvesting, and mingling flavors to create a nourishing, sensory experience"
+template = "body-copy"
 [[blocks]]
 template = "section-summaries"
 [[blocks.sections]]
