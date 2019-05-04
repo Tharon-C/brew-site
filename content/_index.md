@@ -18,7 +18,7 @@ headline = "Made with Love"
 image = "/images/TEA-BAGS.jpg"
 [[blocks]]
 button_text = "Inquires "
-button_url = "#"
+button_url = "/contact"
 content = "Contact me to plan a tea service at your restaurant or party. Whether you are interested in menu-specific pairings or a full sommelier service for your guests, this is the place to be!"
 heading = "Host a tea service with me"
 image = "/images/tea-service.jpg"
