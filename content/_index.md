@@ -13,7 +13,7 @@ content = "Brew. sources only organic, fair trade teas from the finest producers
 headline = "Organic Fair Trade"
 image = "/images/organic.jpg"
 [[blocks.sections]]
-content = "Brew is a family business grown out of love. Each bag is hand measured and stamped, and even our logo and webpage are created by family members. We encourage our children to garden with us and create their own tea blends to inspire them with a love of nature and hard work."
+content = "Brew is a family business grown out of love. Each bag is hand measured and stamped, and even our logo and webpage are created by family members. We encourage our children to garden with us and create their own tea blends to inspire them with a love of nature and an appreciation for hard work."
 headline = "Made with Love"
 image = "/images/TEA-BAGS.jpg"
 [[blocks]]
