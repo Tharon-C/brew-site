@@ -5,7 +5,7 @@ template = "body-copy"
 [[blocks]]
 template = "section-summaries"
 [[blocks.sections]]
-content = "Tea services that pair the perfect herbal blends and teas to your menu. Each dish is thoughtfully considered by contrasting or reinforcing its unique qualities. "
+content = "We blend white, green, oolong, and black teas with our Tucson-grown herbs and flowers (watered with harvested rainwater) to create distinctive and curative brews which can be enjoyed by themselves or paired with food. Brew. offers sommelier tea services, pairing your menu with the perfect hot or iced blends, both in person for a unique dining experience or as an a-la-carte option for your guests to choose simple tea bag options."
 headline = "Curated Experiences"
 image = "/images/herbal-blends.jpg"
 [[blocks.sections]]
