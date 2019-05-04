@@ -1,5 +1,8 @@
 +++
 [[blocks]]
+content = "Brew. tea is a Tucson-based family run business grown out of love and respect for floriculture, rain harvesting, and mingling flavors to create a nourishing, sensory experience."
+template = "body-copy"
+[[blocks]]
 template = "section-summaries"
 [[blocks.sections]]
 content = "Tea should make you feel good physically and spiritually. Knowing that it is both ethical and healthy does both.  "
@@ -21,8 +24,5 @@ heading = "Host a tea service with me"
 image = "/images/tea-service.jpg"
 subtitle = "Tea samplings and tea pairings "
 template = "media-feature"
-[[blocks]]
-content = "text"
-template = "body-copy"
 
 +++
