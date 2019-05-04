@@ -21,5 +21,8 @@ heading = "Host a tea service with me"
 image = "/images/tea-service.jpg"
 subtitle = "Tea samplings and tea pairings "
 template = "media-feature"
+[[blocks]]
+content = "text"
+template = "body-copy"
 
 +++
