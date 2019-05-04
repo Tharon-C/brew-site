@@ -1,7 +1,12 @@
 +++
 [[blocks]]
-content = "\n**Brew. tea is a Tucson-based family run business grown out of love and respect for floriculture, rain harvesting, and mingling flavors to create a nourishing, sensory experience.**"
-template = "body-copy"
+background_image = ""
+button_text = ""
+button_url = ""
+copy = "Brew. tea is a Tucson-based family run business grown out of love and respect for floriculture, rain harvesting, and mingling flavors to create a nourishing, sensory experience"
+heading = ""
+subheading = ""
+template = "hero"
 [[blocks]]
 template = "section-summaries"
 [[blocks.sections]]
@@ -16,6 +21,14 @@ image = "/images/organic.jpg"
 content = "Brew is a family business grown out of love. Each bag is hand measured and stamped, and even our logo and webpage are created by family members. We encourage our children to garden with us and create their own tea blends to inspire them with a love of nature and hard work."
 headline = "Made with Love"
 image = "/images/TEA-BAGS.jpg"
+[[blocks]]
+button_text = ""
+button_url = ""
+content = ""
+heading = "Browse and buy Brew. tea bags"
+image = ""
+subtitle = ""
+template = "media-feature"
 [[blocks]]
 button_text = "Make Appointment"
 button_url = "#"
