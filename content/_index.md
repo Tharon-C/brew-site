@@ -9,7 +9,7 @@ content = "We blend white, green, oolong, and black teas with our Tucson-grown h
 headline = "Curated Experiences"
 image = "/images/herbal-blends.jpg"
 [[blocks.sections]]
-content = "Aside from home-grown herbal blends or tisanes, Brew. also sources organic, fair trade teas from the finest producers who care as much about the sensory experience and equitable working conditions as we do. "
+content = "Brew. sources only organic, fair trade teas from the finest producers who care as much about the sensory experience and equitable working conditions as we do."
 headline = "Organic Fair Trade"
 image = "/images/organic.jpg"
 [[blocks.sections]]
