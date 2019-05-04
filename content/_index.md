@@ -5,7 +5,7 @@ template = "body-copy"
 [[blocks]]
 template = "section-summaries"
 [[blocks.sections]]
-content = "Tea should make you feel good physically and spiritually. Knowing that it is both ethical and healthy does both.  "
+content = "Aside from home-grown herbal blends or tisanes, Brew. also sources organic, fair trade teas from the finest producers who care as much about the sensory experience and equitable working conditions as we do. We blend white, green, oolong, and black teas with our Tucson-grown herbs and flowers (watered mostly with harvested rainwater) to create distinctive and healing brews, whether enjoyed by themselves or paired with food. "
 headline = "Organic Fair Trade"
 image = "/images/organic.jpg"
 [[blocks.sections]]
