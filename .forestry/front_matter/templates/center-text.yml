@@ -1,0 +1,24 @@
+---
+label: Center Text
+hide_body: true
+fields:
+- type: field_group_list
+  name: blocks
+  label: blocks
+  fields:
+  - type: text
+    name: template
+    label: template
+  - type: field_group_list
+    name: sections
+    label: sections
+    fields:
+    - type: textarea
+      name: content
+      label: content
+    - type: text
+      name: headline
+      label: headline
+    - type: file
+      name: image
+      label: image
