@@ -2,7 +2,7 @@
 [[blocks]]
 template = "section-summaries"
 [[blocks.sections]]
-content = "Brew. offers sommelier tea services, pairing your restaurant or party menu with the perfect hot or iced blends, both in person for a unique dining experience or as an a-la-carte option for your guests."
+content = "Brew. offers sommelier tea services, pairing your restaurant or party menu with the perfect hot or iced blends, both in person for a unique dining experience or as an a-la-carte option for your guests. Either option promises an elevated experience!"
 headline = "Curated Experiences"
 image = "/images/herbal-blends.jpg"
 [[blocks.sections]]
