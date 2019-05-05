@@ -9,7 +9,7 @@ content = " Brew. offers sommelier tea services, pairing your menu with the perf
 headline = "Curated Experiences"
 image = "/images/herbal-blends.jpg"
 [[blocks.sections]]
-content = "Brew. sources only organic, fair trade teas from the finest producers who care as much about the sensory experience and equitable working conditions as we do."
+content = "We blend white, green, oolong, and black teas with our Tucson-grown herbs and flowers to create distinctive and curative brews which can be enjoyed by themselves or paired with food. Brew. sources only organic, fair trade teas from the finest producers who care as much about the sensory experience and equitable working conditions as we do."
 headline = "Organic Fair Trade"
 image = "/images/organic.jpg"
 [[blocks.sections]]
