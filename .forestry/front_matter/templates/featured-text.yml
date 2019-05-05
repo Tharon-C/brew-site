@@ -1,0 +1,12 @@
+---
+label: Featured Text
+hide_body: false
+fields:
+- type: textarea
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Content
+  name: content
+  description: Enter your copy here

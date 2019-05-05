@@ -1,5 +1,8 @@
 +++
 [[blocks]]
+content = "Brew. tea is a Tucson-based family run business grown out of love and respect for floriculture, rain harvesting, and mingling flavors to create a nourishing, sensory experience"
+template = "featured-text"
+[[blocks]]
 template = "section-summaries"
 [[blocks.sections]]
 content = "Brew. offers sommelier tea services, pairing your restaurant or party menu with the perfect hot or iced blends, both in person for a unique dining experience or as an a-la-carte option for your guests. Either option promises an elevated experience!"
