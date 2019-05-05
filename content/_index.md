@@ -10,7 +10,7 @@ content = "We blend white, green, oolong, and black teas with our Tucson-grown h
 headline = "Organic Fair Trade"
 image = "/images/organic.jpg"
 [[blocks.sections]]
-content = "Brew is a family business grown out of love. Each blend is carefully crafted and goes through a rigorous tasting process before being hand measured and hand stamped."
+content = "Brew is a family business grown out of love. Each blend is carefully crafted and goes through a rigorous tasting process before being hand measured and hand stamped. Tea leaves are whole and each bag can be used several times while still retaining its original qualities. "
 headline = "Made with Love"
 image = "/images/TEA-BAGS.jpg"
 [[blocks]]
