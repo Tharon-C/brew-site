@@ -17,14 +17,6 @@ content = "Brew is a family business grown out of love. Each blend is carefully 
 headline = "Made with Love"
 image = "/images/TEA-BAGS.jpg"
 [[blocks]]
-button_text = ""
-button_url = ""
-content = ""
-heading = "Browse and buy Brew. tea bags"
-image = ""
-subtitle = ""
-template = "media-feature"
-[[blocks]]
 button_text = "Inquires "
 button_url = "#"
 content = "Contact me to plan a tea service at your restaurant or party. Whether you are interested in menu-specific pairings or a full sommelier service for your guests, this is the place to be!"
